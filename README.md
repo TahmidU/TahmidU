@@ -1,4 +1,4 @@
-# Hi There 👋😁! Welcome to my Github Repository!
+# Hi There 👋😁, Welcome to my Github Repository!
 
 My name is **Tahmid Uddin, an Aspiring 🚀 Fullstack Web Developer and recent Graduate** 🎓 for BSc Computer Science from City, University of London.
 
@@ -87,6 +87,6 @@ During my time in University I have learnt many **concepts, techniques, theoreti
   
 - 📧 Ways to contact me ...
 
-I can be contacted via my Outlook Email, and LinkedIn, both of which can be found below my profile picture on the left panel ◀.
+I can be contacted via Email, or LinkedIn, both of which can be found below my profile picture ◀.
 
 ## 👋👋
