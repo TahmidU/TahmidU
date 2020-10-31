@@ -83,7 +83,7 @@ During my time in University I have learnt many **concepts, techniques, theoreti
 
 - 🛰 Github portfolio details ...
 
-![Tahmid's github stats](https://github-readme-stats.vercel.app/api?username=TahmidU&show_icons=true)
+![Tahmid's github stats](https://github-readme-stats.vercel.app/api?username=TahmidU&show_icons=true&hide=contribs)
   
 - 📧 Ways to contact me ...
 
