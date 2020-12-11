@@ -54,10 +54,6 @@ During my time in University I have learnt many **concepts, techniques, theoreti
         <td><a><b>Augmented-Reality-Room-Designer-V2</b></a></td>
         <td><a>More polished version of Augmented Reality Room Designer V1. Upcoming additional features: chat, access store in AR-Session overhaul, UI overhaul.</a></td>
       </tr>
-      <tr>
-        <td><a><b>Watch-Tower</b></a></td>
-        <td><a>Security web application using Spring Boot, React, Ant Server WebRTC.</a></td>
-      </tr>
     </tbody>
   </table>
 
