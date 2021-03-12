@@ -86,4 +86,4 @@ During my time in University I have learnt many **concepts, techniques, theoreti
 
 I can be contacted via email: tahmid.uddin.dev@gmail.com. For recruiters, it is appreciated if you email me before a call so that I do not miss your it.
 
-## 👋👋
+## 👋
