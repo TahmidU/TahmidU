@@ -75,9 +75,6 @@ During my time in University I have learnt many **concepts, techniques, theoreti
       <tr>
         <td><a><b>Spring Boot</b></a></td>
       </tr>
-      <tr>
-        <td><a><b>Web-RTC</b></a></td>
-      </tr>
     </tbody>
   </table>
 
