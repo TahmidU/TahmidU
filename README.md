@@ -87,6 +87,6 @@ During my time in University I have learnt many **concepts, techniques, theoreti
   
 - 📧 Ways to contact me ...
 
-I can be contacted via Email, or LinkedIn, both of which can be found below my profile picture ◀.
+I can be contacted via email: tahmid.uddin.dev@gmail.com. For recruiters, it is appreciated if you email me before a call so that I do not miss your it.
 
 ## 👋👋
