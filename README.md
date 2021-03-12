@@ -32,7 +32,7 @@ During my time in University I have learnt many **concepts, techniques, theoreti
   <img alt="Android" src="https://img.shields.io/badge/-Native%20Android%20Development-black?style=flat&logo=android&logoColor=green" />
 </p>
 
-- ⚒ current projects ...
+- ⚒ Current projects ...
 
   <table>
     <thead align="center">
