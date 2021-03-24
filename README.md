@@ -32,27 +32,6 @@ During my time in University I have learnt many **concepts, techniques, theoreti
   <img alt="Android" src="https://img.shields.io/badge/-Native%20Android%20Development-black?style=flat&logo=android&logoColor=green" />
 </p>
 
-- 📈 I’m currently learning ...
-
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>📚 Framework/Research</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a><b>React JS</b></a></td>
-      </tr>
-      <tr>
-        <td><a><b>ASP.NET Core</b></a></td>
-      </tr>
-      <tr>
-        <td><a><b>Spring Boot</b></a></td>
-      </tr>
-    </tbody>
-  </table>
-
 - 🛰 Github portfolio details ...
 
 ![Tahmid's github stats](https://github-readme-stats.vercel.app/api?username=TahmidU&show_icons=true&hide=contribs)
