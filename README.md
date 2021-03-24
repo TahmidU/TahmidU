@@ -32,31 +32,6 @@ During my time in University I have learnt many **concepts, techniques, theoreti
   <img alt="Android" src="https://img.shields.io/badge/-Native%20Android%20Development-black?style=flat&logo=android&logoColor=green" />
 </p>
 
-- ⚒ Current projects ...
-
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>📁 Projects</b></td>
-        <td><b>🗒 Description</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/TahmidU/Notes-React-Frontend"><b>Notes-React-Frontend</b></a></td>
-        <td><a>The Frontend for the notes webapp made using the React SPA Framework. Manages everything related to what the user sees.</a></td>
-      </tr>
-      <tr>
-        <td><a><b>Notes-ASP.NETCore-API</b></a></td>
-        <td><a>The backend API for the notes webapp made using ASP.NET Core Web Framework. Manages the Database, Authentication and Authorization.</a></td>
-      </tr>
-      <tr>
-        <td><a><b>Augmented-Reality-Room-Designer-V2</b></a></td>
-        <td><a>More polished version of Augmented Reality Room Designer V1. Upcoming additional features: chat, access store in AR-Session overhaul, UI overhaul.</a></td>
-      </tr>
-    </tbody>
-  </table>
-
 - 📈 I’m currently learning ...
 
   <table>
@@ -84,6 +59,6 @@ During my time in University I have learnt many **concepts, techniques, theoreti
   
 - 📧 Ways to contact me ...
 
-I can be contacted via email: tahmid.uddin.dev@gmail.com. For recruiters, it is appreciated if you email me before a call so that I do not miss your it.
+I can be contacted via email: tahmid.uddin.dev@gmail.com. For recruiters, it is appreciated if you email me before a call so that I do not miss it.
 
 ##
