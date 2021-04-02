@@ -1,4 +1,4 @@
-# Hi There 👋😁, Welcome to my Github Repository!
+# Hi👋, Welcome to my Github Repository!
 
 My name is **Tahmid Uddin, an aspiring Fullstack Web Developer 🚀 and recent graduate** 🎓 for BSc Computer Science from City, University of London.
 
