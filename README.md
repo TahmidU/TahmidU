@@ -16,9 +16,6 @@ During my time in University I have learnt many **concepts, techniques, theoreti
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=html5&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-grey?style=flat&logo=json&logoColor=black" />
   <img alt="XML" src="https://img.shields.io/badge/-XML-white?style=flat&logo=maas&logoColor=orange" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat&logo=spring&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
