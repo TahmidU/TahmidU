@@ -1,6 +1,6 @@
 # Hi👋, Welcome to my Github Repository!
 
-My name is **Tahmid Uddin, an aspiring software engineer and graduate** for BSc Computer Science from City, University of London.
+My name is **Tahmid Uddin, an aspiring software engineer and a Computer Science graduate** from City, University of London.
 
 During my time in University I have learnt many **concepts, techniques, theoretic and principles** that I hope to apply soon in a working environment. Whether you are an employer or a visitor, I hope you find my repositories useful or interesting.
 
