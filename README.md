@@ -2,7 +2,7 @@
 
 My name is **Tahmid Uddin, an aspiring software engineer and a Computer Science graduate** from City, University of London.
 
-During my time in University I have learnt many **concepts, techniques, theoretic and principles** that I hope to apply soon in a working environment. Whether you are an employer or a visitor, I hope you find my repositories useful or interesting.
+During my time in University I have learnt many **concepts, techniques, theoretic and principles** that help me evolve as a software engineer. Whether you are an employer or a visitor, I hope you find my repositories useful or interesting.
 
 - 👓 What I'm comfortable with...
 
