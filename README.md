@@ -9,7 +9,6 @@ During my time in University I have learnt many **concepts, techniques, theoreti
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat&logo=Java&logoColor=red&color=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" /> 
-  <img alt="C#" src="https://img.shields.io/badge/-C Sharp-45b8d8?style=flat&logo=c%2B%2B" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=orange" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
