@@ -31,11 +31,15 @@ During my time in University I have learnt many **concepts, techniques, theoreti
 - 🛰 Github portfolio details ...
 
 ![Tahmid's github stats](https://github-readme-stats.vercel.app/api?username=TahmidU&show_icons=true&hide=contribs)
-  
-- 📧 Ways to contact me ...
+
+- 📧 Socials and ways to contact me ...
+
+<a href="https://uk.linkedin.com/in/tahmidu"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>
+<a href="https://stackoverflow.com/users/11851928/tahmidu"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png"/></a>
+<a href="mailto:tahmid.uddin.dev@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 
 **IMPORTANT**: I am *not* looking for new roles, at the moment. However, please do feel free to connect with me on <a href="https://uk.linkedin.com/in/tahmidu">LinkedIn</a>.
 
-Another way I can be contacted is via email: tahmid.uddin.dev@gmail.com
+Another way I can be contacted is via email at tahmid.uddin.dev@gmail.com
 
 ##
