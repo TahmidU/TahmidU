@@ -34,7 +34,7 @@ During my time in University I have learnt many **concepts, techniques, theoreti
   
 - 📧 Ways to contact me ...
 
-**IMPORTANT**: I am *not* looking for new roles, at the moment. However, please do feel free to connect with me on LinkedIn (https://www.linkedin.com/in/tahmidu/).
+**IMPORTANT**: I am *not* looking for new roles, at the moment. However, please do feel free to connect with me on LinkedIn (https://uk.linkedin.com/in/tahmidu).
 
 Another way I can be contacted is via email: tahmid.uddin.dev@gmail.com
 
